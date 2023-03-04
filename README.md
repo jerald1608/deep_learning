@@ -1,1 +1,1 @@
-# deep_learning
+# AD1612 - Deep Learning Laboratory
